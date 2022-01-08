@@ -1,0 +1,8 @@
+27/12/2021
+C++ is a general-purpose, object-oriented programming language.
+It was created by Bjarne Stroustrup at Bell Labs circa 1980.
+C++ is very similar to C (invented by Dennis Ritchie in the early 1970s).
+C++ is so compatible with C that it will probably compile over 99% of C programs without changing a line of source code.
+28/12/2021
+hello everyone!
+
